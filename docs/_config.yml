@@ -1,4 +1,4 @@
-title: Zero to Hero -> Cuda
+title: "Zero to Hero -> Cuda"
 description: Going from a complete beginner in C++ and Cuda to building high performance applications
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
