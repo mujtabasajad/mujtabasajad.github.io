@@ -1,2 +1,2 @@
 # mujtabasajad.github.io
-Technial Blog
+Technical Blog
