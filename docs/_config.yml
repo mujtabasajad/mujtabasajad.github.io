@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
 title: Zero to Hero -> Cuda
 description: Going from a complete beginner in C++ and Cuda to building high performance applications
+remote_theme: chirpy/chirpy
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
