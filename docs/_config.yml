@@ -1,7 +1,5 @@
 title: Zero to Hero -> Cuda
 description: Going from a complete beginner in C++ and Cuda to building high performance applications
-remote_theme: chirpy/chirpy
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-remote-theme # add this line to the plugins list if you already have one
