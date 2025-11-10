@@ -12,5 +12,3 @@ Going from a complete beginner in C++ and CUDA to building high performance appl
 {% for post in site.posts limit:5 %}
 - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
-
-[View all posts →](/blog/)
