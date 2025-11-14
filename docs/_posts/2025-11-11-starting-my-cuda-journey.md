@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World - Starting My CUDA Journey"
+title: "Starting My CUDA Journey"
 date: 2025-11-11
 categories: cuda intro
 ---
