@@ -1,2 +1,4 @@
 
 remote_theme: "jekyll/minima@1e8a445"
+header_pages:
+  -posts/index.md
