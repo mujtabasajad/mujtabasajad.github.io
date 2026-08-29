@@ -11,7 +11,7 @@ Hi, I'm Muj a machine learning engineer with around 3 years of experience. I hav
 I hope to populate this with some open source contributions.
 
 # Blog
-Check out my [blog posts](/posts) where I will be writing about:
+I will be writing about:
 - ML Engineering best practices
 - ML systems
 - ML Infrastructure
