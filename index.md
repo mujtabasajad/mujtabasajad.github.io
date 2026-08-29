@@ -1,8 +1,3 @@
----
-layout: default
-title: Mujtaba Sajad
----
-
 # INTRODUCTION
 Hi, I'm Muj a machine learning engineer with around 3 years of experience. I have been wanting to start a blog to just document what I learn and to force myself to be more proactive with learning new things. I am based in the Uk and love to learn more about ML engineering and ML systems.
 
