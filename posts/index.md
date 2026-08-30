@@ -1,3 +1,8 @@
+---
+layout: page
+title: Blogs
+---
+
 # Blog
 
 Here are my latest posts:

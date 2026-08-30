@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "100 Days of Inference Engineering - Intro"
+title: "100 Days of Inference Engineering"
 date: 2026-08-30
 ---
+
 # 100 days of Inference Engineering
 I've been looking for opportunities to learn about what happens with AI inference systems, I have found countless blogs about how to deploy a model etc but I think it is more interesting to understand how to make a deployment faster, how to look for bottlenecks, where do they even come from, how to fully utilise all your resources and lots of other things!
 
